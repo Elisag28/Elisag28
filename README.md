@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Elisa</h1>
 <h3 align="center">A passionate Data Scientist from Venezuela, currently living in Madrid</h3>
 
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
+
 ## My Skills
 - Machine Learning
 - Databases: SQL
